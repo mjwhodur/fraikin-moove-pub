@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Zgłaszanie problemów
 about: Create a report to help us improve
 title: ''
 labels: ''
@@ -7,32 +7,21 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Opisz problem**
+Opisz problem, gdzie występuje, możesz podać odnośnik.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Kroki odtworzeniowe błędu**
+Jakie kroki należy podjąć, aby otrzymać błąd:
+1. Przejdź do '...'
+2. Kliknij na'....'
+3. Wpisz '....'
+4. Występuje błąd
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Oczekiwane zachowanie**
+Krótki opis oczekiwanego zachowania w aplikacji.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Zrzuty ekranu**
+Dodaj zrzuty ekranu, jeśli jest to możliwe.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Dodatkowe informacje, które mogą przyczynić się do rozwiązania problemu**
+Wpisz tutaj wszystko, co może przyczynić się do rozwiązania problemu.
