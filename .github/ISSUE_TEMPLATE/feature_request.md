@@ -1,20 +1,20 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+name: Zapotrzebowanie na funkcję
+about: Zaproponuj nową funkcję lub usprawnienie
+title: 'Nowa funkcja'
+labels: 'feature'
+assignees: 'mjwhodur'
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Czy twoje zgłoszenie dotyczy problemu? Opisz.**
+Krótki i zwięzły opis rozwiąznaia problemu. Przykładowo: jestem sfrustrowany, gdy nie mogę klikąć klawiszem TAB [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Zaproponuj rozwiązanie**
+Krótki i zwięzły opis tego, czego oczekujesz.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Opisz inne rozwiązania, któe przewidujesz**
+Opisz, czy rozważałeś inne sposoby na rozwiązanie Twojego problemu.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Dodatkowe informacje, które mogą wspomóc**
+Dołącz dodatkowe informacje, na przykład załączniki, screenshot, rysunek.
