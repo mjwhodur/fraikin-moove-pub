@@ -1,9 +1,9 @@
 ---
 name: Zgłaszanie problemów
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+about: Utwórz raport według wzoru, który wspomoże nas w rozwiązaniu problemów z aplikacją.
+title: 'Bug: '
+labels: 'bug'
+assignees: 'mjwhodur'
 
 ---
 
