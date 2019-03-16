@@ -1,5 +1,5 @@
 ---
-name: Zgłaszanie uterek
+name: Zgłaszanie usterek
 about: Utwórz raport według wzoru, który wspomoże nas w rozwiązaniu problemów z aplikacją.
 title: 'Bug: '
 labels: 'bug'
